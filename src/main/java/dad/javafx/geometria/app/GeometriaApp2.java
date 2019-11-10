@@ -34,7 +34,7 @@ public class GeometriaApp2 extends Application{
 		root.setTabClosingPolicy(TabClosingPolicy.UNAVAILABLE);
 		Scene scene = new Scene(root,640,480);
 		primaryStage.setScene(scene);
-		primaryStage.setTitle("AccesoAdatos");
+		primaryStage.setTitle("Geometría");
 		primaryStage.show();
 		
 	}
